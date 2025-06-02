@@ -1,2 +1,2 @@
 ECHO is on.
-This is a new feature
+This is a new feature.
